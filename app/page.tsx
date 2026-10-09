@@ -34,7 +34,7 @@ export default function Home() {
         <Projects lang={lang} />
         <Contact lang={lang} />
       </main>
-      <footer className="foot">© ROHAM ARAM · {new Date().getFullYear()}</footer>
+      <footer className="foot">© ROHAM ARAM</footer>
     </>
   );
 }
